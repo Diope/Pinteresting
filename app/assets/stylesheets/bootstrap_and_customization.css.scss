@@ -1,1 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+$font-family-sans-serif: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$body-bg: #f8f8f8;
+$navbar-default-bg: #fff;
+$navbar-default-brand-color: #B51A1F;
+$brand-primary:  #B51A1F;
+
 @import 'bootstrap';
+
+.center {
+  text-align: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
