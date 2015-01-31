@@ -1,3 +1,3 @@
-#One month Rails
+#Pinteresting, veeeery Pinteresting!
 
-This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
+Recreating Pinterest with RoR, Basic functionality.
