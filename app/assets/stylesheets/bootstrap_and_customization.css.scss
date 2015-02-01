@@ -6,6 +6,7 @@ $navbar-default-bg: #fff;
 $navbar-default-brand-color: #B51A1F;
 $brand-primary:  #B51A1F;
 
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
 
 .center {
