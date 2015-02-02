@@ -15,7 +15,9 @@ gem 'paperclip', '~> 4.2.1'
 gem 'aws-sdk', '~> 1.61.0'
 gem 'nokogiri', '~> 1.6.6.2'
 gem 'jquery-turbolinks'
+gem 'will_paginate'
 gem 'masonry-rails'
+gem 'will_paginate-bootstrap'
 
 group :development, :test do
   gem 'byebug'
