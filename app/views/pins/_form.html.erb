@@ -21,10 +21,10 @@
     <%= f.text_field :title, class: 'form-control' %>
   </div>
 
-  <textarea class="form-control" rows="3">
-    <%= f.label :Description %>
-    <%= f.text_field :description, class: 'form-control' %>
-  </textarea>
+  <div class='form-group'>
+    <%= f.label :description %>
+    <%= f.text_field :description, class: 'form-control', rows: '15' %>
+  </div>
 
   <div class="form-group">
     <%= f.submit 'submit', class: 'btn btn-primary' %>
